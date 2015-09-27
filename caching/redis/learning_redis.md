@@ -49,4 +49,11 @@ What this means is that A is related to B and B is related to C, then C is relat
 A. Graph databases tend to solve the problems that arise out of relationships formed
 among unstructured entities at runtime, which can be bidirectional.
 
+### Column-oriented NoSQL
+
+Cassandra is a datastore which belongs to the category of columnar-oriented datastores 
+and also shows some features of the key-value datastore. Cassandra, which was initially 
+started by Facebook but later forked to the Apache open source community, is best suited 
+for real-time transaction processing and real-time analytics.
+
 
